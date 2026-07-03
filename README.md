@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋I'm Julien
+
+I'm a Computer Science student at the University of Waterloo
+
 jh2liang@uwaterloo.ca
 
 Currently working on:
