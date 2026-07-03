@@ -13,3 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 jh2liang@uwaterloo.ca
+
+Currently working on:
+- Real-time AI cooking coach (Remy)
+- Zero hardware teleoperation solutions (to be announced)
+- Monkeytype for studying
